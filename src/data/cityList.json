@@ -1,0 +1,312 @@
+[
+  {
+    "id": 5128581,
+    "name": "New York",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -74.005966,
+      "lat": 40.714272
+    }
+  },
+  {
+    "id": 7280290,
+    "name": "Taipei",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.651611,
+      "lat": 25.025881
+    }
+  },
+  {
+    "id": 1548565,
+    "name": "Tainan City",
+    "state": "",
+    "country": "CN",
+    "coord": {
+      "lon": 120.26944,
+      "lat": 32.762051
+    }
+  },
+  {
+    "id": 1796236,
+    "name": "Shanghai",
+    "state": "",
+    "country": "CN",
+    "coord": {
+      "lon": 121.458061,
+      "lat": 31.222219
+    }
+  },
+  {
+    "id": 1668399,
+    "name": "Taichung",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.683899,
+      "lat": 24.1469
+    }
+  },
+  {
+    "id": 1670029,
+    "name": "Banqiao District",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.467194,
+      "lat": 25.014271
+    }
+  },
+  {
+    "id": 1670479,
+    "name": "Pingtung City",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.614441,
+      "lat": 22.49555
+    }
+  },
+  {
+    "id": 1670651,
+    "name": "Penghu County",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 119.611382,
+      "lat": 23.57111
+    }
+  },
+  {
+    "id": 1671564,
+    "name": "Nantou",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.92704,
+      "lat": 23.83419
+    }
+  },
+  {
+    "id": 1671971,
+    "name": "Miaoli",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.823669,
+      "lat": 24.56427
+    }
+  },
+  {
+    "id": 1673820,
+    "name": "Kaohsiung City",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.313332,
+      "lat": 22.616261
+    }
+  },
+  {
+    "id": 1674197,
+    "name": "Yilan",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.633614,
+      "lat": 24.5425
+    }
+  },
+  {
+    "id": 1674502,
+    "name": "Hualien",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.393333,
+      "lat": 23.78166
+    }
+  },
+  {
+    "id": 1675151,
+    "name": "Hsinchu",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.968613,
+      "lat": 24.80361
+    }
+  },
+  {
+    "id": 1676242,
+    "name": "Hengchun",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.743889,
+      "lat": 22.004169
+    }
+  },
+  {
+    "id": 1678228,
+    "name": "Keelung",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.741898,
+      "lat": 25.12825
+    }
+  },
+  {
+    "id": 1678836,
+    "name": "Chiayi City",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.448891,
+      "lat": 23.47917
+    }
+  },
+  {
+    "id": 1679136,
+    "name": "Chang-hua",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 120.562759,
+      "lat": 24.073271
+    }
+  },
+  {
+    "id": 6696918,
+    "name": "Taoyuan City",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.296959,
+      "lat": 24.993679
+    }
+  },
+  {
+    "id": 6949678,
+    "name": "Taitung City",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 121.144402,
+      "lat": 22.758301
+    }
+  },
+  {
+    "id": 7552914,
+    "name": "Nangan",
+    "state": "",
+    "country": "TW",
+    "coord": {
+      "lon": 119.932838,
+      "lat": 26.150391
+    }
+  },
+  {
+    "id": 1853908,
+    "name": "Osaka",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 137.266663,
+      "lat": 35.950001
+    }
+  },
+  {
+    "id": 1850147,
+    "name": "Tokyo",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 139.691711,
+      "lat": 35.689499
+    }
+  },
+  {
+    "id": 1857910,
+    "name": "Kyoto",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 135.753845,
+      "lat": 35.021069
+    }
+  },
+  {
+    "id": 2130037,
+    "name": "Hokkaido",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 141.346603,
+      "lat": 43.06451
+    }
+  },
+  {
+    "id": 1854345,
+    "name": "Okinawa",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 126.668709,
+      "lat": 25.772249
+    }
+  },
+  {
+    "id": 2130658,
+    "name": "Aomori",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 140.740005,
+      "lat": 40.82444
+    }
+  },
+  {
+    "id": 1858419,
+    "name": "Kumamoto",
+    "state": "",
+    "country": "JP",
+    "coord": {
+      "lon": 130.754303,
+      "lat": 32.620491
+    }
+  },
+  {
+    "id": 1816670,
+    "name": "Beijing",
+    "state": "",
+    "country": "CN",
+    "coord": {
+      "lon": 116.397232,
+      "lat": 39.907501
+    }
+  },
+  {
+    "id": 4119617,
+    "name": "London",
+    "state": "AR",
+    "country": "US",
+    "coord": {
+      "lon": -93.25296,
+      "lat": 35.328972
+    }
+  },
+  {
+    "id": 1835847,
+    "name": "Seoul",
+    "state": "",
+    "country": "KR",
+    "coord": {
+      "lon": 127.0,
+      "lat": 37.583328
+    }
+  }
+]

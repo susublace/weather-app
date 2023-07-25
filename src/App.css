@@ -1,38 +1,244 @@
-.App {
-  text-align: center;
+@import "~antd/dist/antd.css";
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.homepage-main {
+  width: 100%;
+  background-size: cover;
+  background-image: url(./image/snow.jpg);
+  display: flex;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.homepage-left {
+  width: 60%;
+  padding: 20px 50px 10px 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.homepage-right {
+  width: 40%;
+}
+
+.homepage-header {
+  margin: 10px 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: flex-start;
+}
+
+.homepage-header-title {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.homepage-header-wrapper {
+  font-size: 40px;
+  padding-bottom: 30px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.homepage-content-unitChange {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+}
+
+.homepage-content {
+  margin-top: 30px;
+}
+
+.homepage-footer {
+  margin-top: 15px;
+}
+
+.homepage-footer-status {
+  color: white;
+}
+
+.ant-radio-wrapper {
+  margin-top: 5px;
+  font-size: 17px;
+}
+
+.homepage-right-map {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  left: 0;
+  top: 0;
+  /* padding-top: 30px; */
+}
+
+.marker {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: -20px;
+  top: -20px;
+  border: 5px solid #f44336;
+  border-radius: 40px;
+  background-color: white;
+  text-align: center;
+  color: #3f51b5;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 4px;
+}
+
+.map-style {
+  width: 100%;
+  height: 100vh;
+}
+
+@media (max-width: 992px) {
+  .homepage-main {
+    display: flex;
+    flex-direction: column;
   }
-  to {
-    transform: rotate(360deg);
+  .homepage-left {
+    width: 100%;
+  }
+  .homepage-right {
+    width: 100%;
+    padding: 20px 10px 20px 50px;
+  }
+  .map-style {
+    width: 90%;
+    height: 50vh;
+  }
+}
+
+@media (max-width: 767px) {
+  .homepage-main {
+    display: flex;
+    flex-direction: column;
+  }
+  .homepage-left {
+    width: 100%;
+  }
+  .homepage-right {
+    width: 100%;
+    padding: 20px 10px 20px 50px;
   }
 }
